@@ -1,5 +1,5 @@
-# phpGallery
-`phpGallery` is a free and open source images gallery system written in pure PHP (OOP) & MySQL. Frontend is based on Blog HTML Template called `Start Bootstrap` (http://startbootstrap.com).
+# phpGallery [![GitHub (pre-)release](https://img.shields.io/github/release/dawidgorecki/phpGallery/all.svg)](https://github.com/dawidgorecki/phpGallery/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/dawidgorecki/phpGallery/master/LICENSE)
+`phpGallery` is a free and open source images gallery system written in pure PHP (OOP) & MySQL. Frontend is based on *Blog HTML Template* called `Start Bootstrap` (http://startbootstrap.com).
 ## Features
 - easy to install
 - user friendly
@@ -33,4 +33,3 @@ define('DB_CHARSET', 'utf8');
 - MySQL
 ## License
 Licensed under the MIT license. (http://opensource.org/licenses/MIT)
-Copyright (c) 2017 Dawid Górecki
