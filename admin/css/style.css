@@ -1,0 +1,94 @@
+#piechart {
+   height: 400px;
+}
+
+.admin-thumb {
+   width: 150px;
+   height: 150px;
+   object-fit: cover;
+}
+
+.user-image {
+   width: 80px;
+   height: 80px;
+   object-fit: cover;
+}
+
+.photo-info-box {
+   border: 1px solid #e5e5e5;
+   background-color: #fff;
+}
+
+.info-box-header {
+   padding: 6px;
+   background-color: #fff;
+}
+
+.photo-info-box .box-inner {
+   border-top: 1px solid #e5e5e5;
+   background-color: #fff;
+   padding: 6px;
+}
+
+.photo-info-box .box-inner .text {
+   padding: 5px 8px 2px;
+}
+
+.photo-info-box .box-inner .data {
+   font-weight: bold;
+}
+
+.photo-info-box .info-box-footer {
+   border-top: 1px solid #ddd;
+   background-color: #f2f2f2;
+   padding: 10px;
+}
+
+.modal-dialog {
+   width: 90% !important;
+}
+
+.modal-body {
+   overflow: auto;
+   height: 500px !important;
+   min-height: 300px !important;
+}
+
+.modal_thumbnails {
+   /*width: 150px !important;*/
+   height: 150px !important;
+   object-fit: cover;
+}
+
+#set_user_image {
+   margin:10px;
+}
+
+#modal_sidebar {
+   position: fixed !important;
+}
+
+#login-id label {
+   font-weight: normal;
+}
+
+#login-id {
+   margin-top: 50px;
+   background-color: #fff;
+   border-radius: 5px;
+   border: 1px solid #ccc;
+   padding: 5px 20px 5px 20px;
+   box-shadow: 0 0 2px #b2b2b2;
+}
+
+h3.login-page {
+   margin-bottom: 30px;
+}
+
+form .file-upload {
+   padding: 20px 0;
+}
+
+body#authorization {
+   background-color: #f2f2f2;
+}
